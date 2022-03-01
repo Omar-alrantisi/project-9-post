@@ -6,7 +6,7 @@ function Navbar(){
        
         
        <nav className="navbar">
-           <h3 className="logo">Logo</h3>
+           <h3 className="logo">Omar Posts</h3>
            
        </nav>
         
