@@ -1,0 +1,20 @@
+.add-comment{
+    padding-top: 50px;
+}
+
+.fontsize-comments{
+    font-size: large;
+    text-transform: uppercase;
+}
+.todo-comments{
+    margin-top: 50px;
+}
+
+@media  (max-width: 767px) {
+    .add-comment{
+        display: inline !important;
+    }
+    .add-comment-btn{
+        margin-top: 10px !important;
+    }
+}
